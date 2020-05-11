@@ -7,14 +7,14 @@
     tools:context=".Activity.SplashActivity">
 
 <TextView
-    android:layout_marginTop="60dp"
+    android:layout_marginTop="20dp"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="List STARTUP"
+    android:text="List Pemain"
     android:layout_centerHorizontal="true"
-    android:textSize="30dp"
+    android:textSize="40dp"
     android:textStyle="bold"
-    android:textColor="#000"
+    android:textColor="#FFFFFF"
     android:fontFamily="@font/reg"/>
 
 <ImageView
@@ -23,5 +23,5 @@
     android:layout_centerInParent="true"
     android:layout_width="350dp"
     android:layout_height="350dp"
-    android:src="@drawable/market"/>
+    android:src="@drawable/logo"/>
 </RelativeLayout>
